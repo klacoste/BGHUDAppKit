@@ -14,7 +14,7 @@ RapidWeaver does not bundle BGHUDAppKit within it's application bundle. Therefor
 
 3. Make sure to test for the presence of BGHUDAppKit in code before attempting to load it. The first plugin to make use of the framework is responsible for loading it. All subsequent plugins can use the version resident in memory.
 
-For examples of how to conditionally load frameworks at runtime from within your plugin or any other RapidWeaver related development questions, come join us on the RapidWeaver Developer Mailing List.
+For examples of how to conditionally load frameworks at runtime from within your plugin or any other RapidWeaver related development questions, come join us on the [RapidWeaver Developer Mailing List](http://groups.google.com/group/rapidweaver-developer-network).
 
 Development
 ===========
